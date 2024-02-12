@@ -25,6 +25,8 @@ Modern Data Pipeline Tool:
 
 ## Data Model
 
+![picture alt](https://github.com/vthoondee/gcp-data-engineering-uber/blob/main/data_model/uber_data_model.png)
+
 ## Data Pipeline 
 
 ## Looker Dashboard
