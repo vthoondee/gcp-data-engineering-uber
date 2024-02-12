@@ -1,6 +1,6 @@
 # End-to-End Data Engineering Project via Google Cloud Platform
 
-This modern data end-to-end engineering project designed to generate insights of Uber data via Looker Studio includes building ETL data pipeline using mage.ai, deploying pipeline on Google Cloud Platform and using BigQuery for data analysis.
+This modern end-to-end data engineering project designed to generate insights of Uber data via Looker Studio includes building ETL data pipeline using mage.ai, deploying pipeline on Google Cloud Platform and using BigQuery for data analysis.
 
 ## Data Architecture
 
