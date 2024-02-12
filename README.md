@@ -4,7 +4,7 @@ This modern end-to-end data engineering project designed to generate insights of
 
 ## Data Architecture
 
-![picture alt]( https://github.com/vthoondee/gcp-data-engineering-uber/blob/main/data_architecture/data_architecture.png )
+![picture alt](https://github.com/vthoondee/gcp-data-engineering-uber/blob/main/data_architecture/data_architecture.png)
 
 ## Tech Stack
 
